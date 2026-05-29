@@ -1,4 +1,4 @@
-# ¡  Jesus Aldair Cupul Ramirez
+# ¡Hola! 👋 Soy Jesus Aldair Cupul Ramirez
 
 Soy estudiante de Ingeniería en Sistemas Computacionales enfocado en el desarrollo de software.
 
