@@ -1,7 +1,4 @@
 <!-- CABECERA DEL PERFIL -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png/007bff/ffffff?text=Estudiante+de+Ingenieria" width="100%" alt="Banner de Perfil" />
-</p>
 
 # ¡Hola! 👋 Soy Jesus Aldair Cupul Ramirez
 
